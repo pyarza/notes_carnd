@@ -36,3 +36,16 @@ conda env create -f environment.yml
 ```
 
 Esto tarda un rato (se bajan muchos paquetes)
+
+Pero acaba sin probelmas
+
+## Primeras pruebas
+
+Clonar el respositorio:
+
+git clone https://github.com/udacity/CarND-LaneLines-P1
+
+y arrancar el servidor **jupyter** desde donde se puede modificar el codigo del poryecto
+
+
+
