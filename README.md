@@ -45,7 +45,19 @@ Clonar el respositorio:
 
 git clone https://github.com/udacity/CarND-LaneLines-P1
 
+Activar el environment
+```
+source activate carnd-term1
+```
 y arrancar el servidor **jupyter** desde donde se puede modificar el codigo del poryecto
+
+con
+
+```
+jupyter notebook
+```
+
+
 
 
 
